@@ -28,9 +28,13 @@ We propose creating a user-friendly website that integrates mapping services to 
 ## Technology Stack
 
 1.PyCharm
+
 2.Django
+
 3.Google API
+
 4.Figma  
+
 5.PostgreSQL
 
 ## Dependencies
